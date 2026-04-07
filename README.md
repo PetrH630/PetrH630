@@ -79,6 +79,7 @@ Aplikace pro správu poradců, klientů a smluv.
 * statistiky a přehledy
 
 🔗 GitHub: https://github.com/PetrH630/advisor-app
+🌐 Demo: https://advisor.phsoft.cz
 
 ---
 
